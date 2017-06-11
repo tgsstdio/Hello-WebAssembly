@@ -5,7 +5,7 @@
 ### [Option 1](#Option-1) 
 -  Print HELLO WORLD by reading hardcoded data [LINK](https://wasdk.github.io/WasmFiddle/?wvzhb)
 
-### [Option 2](#Using-an-js-import-function)
+### [Option 2](#Option-2)
 - Using an js import function to output 'HELLO WORLD' [LINK](https://wasdk.github.io/WasmFiddle/?jn7tx)
 
 ### [Option 3](#Option-3)
