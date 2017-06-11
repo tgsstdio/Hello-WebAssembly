@@ -2,17 +2,13 @@
 
 "Hello World" WebAssembly examples written in the [WasmFiddle](https://wasdk.github.io/WasmFiddle/) HTML browser editor
 
-### [Option 1](#Option-1) 
--  Print HELLO WORLD by reading hardcoded data [LINK](https://wasdk.github.io/WasmFiddle/?wvzhb)
+- [Option 1](#Option-1) - Print HELLO WORLD by reading hardcoded data [LINK](https://wasdk.github.io/WasmFiddle/?wvzhb)
 
-### [Option 2](#Option-2)
-- Using an js import function to output 'HELLO WORLD' [LINK](https://wasdk.github.io/WasmFiddle/?jn7tx)
+- [Option 2](#Option-2) - Using an js import function to output 'HELLO WORLD' [LINK](https://wasdk.github.io/WasmFiddle/?jn7tx)
 
-### [Option 3](#Option-3)
- - Writing out 'HELLO WORLD' into memory and observing the change via dumps [LINK](https://wasdk.github.io/WasmFiddle/?15zq3v)
+- [Option 3](#Option-3) - Writing out 'HELLO WORLD' into memory and observing the change via dumps [LINK](https://wasdk.github.io/WasmFiddle/?15zq3v)
 
-### [Option 4](#Option-4)
- - Printing HELLO WORLD by reading memory (i.e. similar to Option 3) [LINK](https://wasdk.github.io/WasmFiddle/?1hayln)
+- [Option 4](#Option-4) - Printing HELLO WORLD by reading memory (i.e. similar to Option 3) [LINK](https://wasdk.github.io/WasmFiddle/?1hayln)
 
 -----
 
