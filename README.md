@@ -2,17 +2,18 @@
 
 "Hello World" WebAssembly examples written in the [WasmFiddle](https://wasdk.github.io/WasmFiddle/) HTML browser editor
 
-- [Option 1](#Option-1) - Print HELLO WORLD by reading hardcoded data [LINK](https://wasdk.github.io/WasmFiddle/?wvzhb)
+## Examples
+- [Option 1](#option-1) - Print HELLO WORLD by reading hardcoded data [LINK](https://wasdk.github.io/WasmFiddle/?wvzhb)
 
-- [Option 2](#Option-2) - Using an js import function to output 'HELLO WORLD' [LINK](https://wasdk.github.io/WasmFiddle/?jn7tx)
+- [Option 2](#option-2) - Using an js import function to output 'HELLO WORLD' [LINK](https://wasdk.github.io/WasmFiddle/?jn7tx)
 
-- [Option 3](#Option-3) - Writing out 'HELLO WORLD' into memory and observing the change via dumps [LINK](https://wasdk.github.io/WasmFiddle/?15zq3v)
+- [Option 3](#option-3) - Writing out 'HELLO WORLD' into memory and observing the change via dumps [LINK](https://wasdk.github.io/WasmFiddle/?15zq3v)
 
-- [Option 4](#Option-4) - Printing HELLO WORLD by reading memory (i.e. similar to Option 3) [LINK](https://wasdk.github.io/WasmFiddle/?1hayln)
+- [Option 4](#option-4) - Printing HELLO WORLD by reading memory (i.e. similar to Option 3) [LINK](https://wasdk.github.io/WasmFiddle/?1hayln)
 
 -----
 
-## Option 1
+## Option 1 
 
 > Print HELLO WORLD by reading hardcoded data
 
@@ -62,6 +63,8 @@ log(utf8ToString(h, p))
 ```
 Hello World
 ```
+
+[Back to top](#examples)
 
 -----
 
@@ -115,6 +118,8 @@ m.exports.hello();
 ```
 HELLO WORLD
 ```
+
+[Back to top](#examples)
 
 -----
 
@@ -216,6 +221,8 @@ lib.dumpMemory(buffer, offset, BYTE_LENGTH);
 
 ```
 
+[Back to top](#examples)
+
 -----
 
 ## Option 4
@@ -312,3 +319,5 @@ log(utf8ToString(buffer, offset));
 11
 HELLO WORLD
 ```
+
+[Back to top](#examples)
